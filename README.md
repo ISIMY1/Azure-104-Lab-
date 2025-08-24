@@ -28,6 +28,4 @@ In this lab, I explored the fundamental concepts of cloud computing and Microsof
 
 Additionally, I reviewed **Azure service types**, Enterprise Agreement (EA) structures, reliability considerations, and key features that make Azure a robust cloud platform. This lab helped reinforce my understanding of **when and how to use different cloud services**, preparing me for practical tasks in cloud administration and the AZ-104 exam.
 
-Example below.
 
-*Ref 1: Network Diagram*
